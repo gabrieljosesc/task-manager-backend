@@ -5,7 +5,7 @@ This is the backend API for the Task Manager app, built with Django and Django R
 #Setup Instructions
 
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/task-manager-backend.git
+git clone https://github.com/your_username/task-manager-backend.git
 cd task-manager-backend/backend
 
 # 2. Create and activate virtual environment
